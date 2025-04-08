@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "Cartas trunfo.C": "cpp"
+        "Cartas trunfo.C": "cpp",
+        "super_trunfo.C": "cpp"
     }
 }
