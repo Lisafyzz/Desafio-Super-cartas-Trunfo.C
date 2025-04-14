@@ -19,6 +19,8 @@ float densidade1;
 float densidade2;
 float pibpercapita1;
 float pibpercapita2;
+float superpoder1;
+float superpoder2;
 
 //entrada de dados da primeira carta
 
